@@ -6,8 +6,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/book?severTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false
-    username:
-    password:
+    username: root
+    password: Yan15815488241
 logging:
   file:
     path:

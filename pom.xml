@@ -12,6 +12,7 @@
     <artifactId>book</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <description>图书借阅系统</description>
+    <name>cloud-library</name>
     <url/>
     <licenses>
         <license/>
